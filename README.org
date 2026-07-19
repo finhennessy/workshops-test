@@ -25,7 +25,7 @@ To export the site to static html to serve for example via github pages, run:
 
 #+begin_src bash
 # Install dependencies
-npm install
+npm install 
 
 # Build and export the site
 npm run build
