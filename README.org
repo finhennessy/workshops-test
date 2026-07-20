@@ -18,7 +18,7 @@ npm install
 npm run build && npm run dev
 #+end_src
 
-
+ 
 ** Exporting static site
 
 To export the site to static html to serve for example via github pages, run:
